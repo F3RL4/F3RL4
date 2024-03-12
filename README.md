@@ -7,17 +7,13 @@
 <br />
 
 <p><img align="right" width="50%" src="fullstack.gif" alt="NGUD" /></p>
-<ul style="list-style-type: none; padding-left: 0;">
-  <li><span>👋</span> Hi, I’m @F3RL4</li>
-  <li><span>👀</span> I'm interested in programming, especially in Python, Java, databases, JDBC, and SQL. Additionally, I enjoy hiking and gardening, and I'm fascinated by the vastness of space and the possibilities of life beyond Earth.</li>
-  <li><span>🌱</span> Currently, I'm honing my skills as a software developer, constantly striving to become a better programmer.</li>
-  <li><span>💞️</span> I'm open to collaborations related to software development, knowledge exchange, and experiences in the field.</li>
-  <li><span>📫</span> To reach me, you can use efa.ferla@gmail.com. I'm always open to discussions and collaborations in the programming and related areas.</li>
+<ul>
+  <li>👋 Hi, I’m @F3RL4</li>
+  <li>👀 I'm interested in programming, especially in Python, Java, databases, JDBC, and SQL. Additionally, I enjoy hiking and gardening, and I'm fascinated by the vastness of space and the possibilities of life beyond Earth.</li>
+  <li>🌱 Currently, I'm honing my skills as a software developer, constantly striving to become a better programmer.</li>
+  <li>💞️ I'm open to collaborations related to software development, knowledge exchange, and experiences in the field.</li>
+  <li>📫 To reach me, you can use efa.ferla@gmail.com. I'm always open to discussions and collaborations in the programming and related areas.</li>
 </ul>
-
-
-
-
 
 ####      <div align="center">![](https://img.shields.io/badge/React-blue) ![](https://img.shields.io/badge/Vue-blue) ![](https://img.shields.io/badge/Angular-blue) ![](https://img.shields.io/badge/Next-blue) ![](https://img.shields.io/badge/Electron-blue) ![](https://img.shields.io/badge/Nuxt-blue) ![](https://img.shields.io/badge/BlockChain-blue) ![](https://img.shields.io/badge/RUST-blue) ![](https://img.shields.io/badge/Azure-blue) ![](https://img.shields.io/badge/Retool-blue) ![](https://img.shields.io/badge/Node-blue) ![](https://img.shields.io/badge/AWS-blue) ![](https://img.shields.io/badge/GCP-blue) ![](https://img.shields.io/badge/Python-blue) ![](https://img.shields.io/badge/Django-blue) ![](https://img.shields.io/badge/Flask-blue) ![](https://img.shields.io/badge/FastAPI-blue) ![](https://img.shields.io/badge/ChatGPT-blue) ![](https://img.shields.io/badge/Heroku-blue) ![](https://img.shields.io/badge/Netlify-blue) ![](https://img.shields.io/badge/Docker-blue) ![](https://img.shields.io/badge/android-blue) ![](https://img.shields.io/badge/ios-blue) ![](https://img.shields.io/badge/Flutter-blue) ![](https://img.shields.io/badge/CI/CD-blue) ![](https://img.shields.io/badge/LLM-blue) ![](https://img.shields.io/badge/NLP-blue) ![](https://img.shields.io/badge/JavaScript-blue) ![](https://img.shields.io/badge/TypeScript-blue) ![](https://img.shields.io/badge/MySQL-blue) ![](https://img.shields.io/badge/MongoDB-blue) ![](https://img.shields.io/badge/PostgreSQL-blue)  ![](https://img.shields.io/badge/HTML-blue) ![](https://img.shields.io/badge/CSS-blue) ![](https://img.shields.io/badge/PHP-blue) ![](https://img.shields.io/badge/Laravel-blue) ![](https://img.shields.io/badge/GraphQL-blue) ![](https://img.shields.io/badge/Bootstrap-blue) ![](https://img.shields.io/badge/TailwindCSS-blue) ![](https://img.shields.io/badge/C-blue) ![](https://img.shields.io/badge/Material%20UI-blue) ![](https://img.shields.io/badge/Svelte-blue) ![](https://img.shields.io/badge/Ant%20Design-blue)</div>
 
