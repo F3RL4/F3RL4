@@ -17,7 +17,7 @@
 <span>💞️ Open to collaborations and conversations on AI, multi-agent systems, telecom, and next-generation system architectures.</span><br>
 <span>📫 Reach me at efa.ferla@gmail.com</span>
 
-####      <div align="center">![](https://img.shields.io/badge/AI%20Agents-blue) ![](https://img.shields.io/badge/LLM-blue) ![](https://img.shields.io/badge/NLP-blue) ![](https://img.shields.io/badge/ChatGPT-blue) ![](https://img.shields.io/badge/React-blue) ![](https://img.shields.io/badge/Vue-blue) ![](https://img.shields.io/badge/Angular-blue) ![](https://img.shields.io/badge/Next-blue) ![](https://img.shields.io/badge/Electron-blue) ![](https://img.shields.io/badge/Nuxt-blue) ![](https://img.shields.io/badge/BlockChain-blue) ![](https://img.shields.io/badge/RUST-blue) ![](https://img.shields.io/badge/Azure-blue) ![](https://img.shields.io/badge/Retool-blue) ![](https://img.shields.io/badge/Node-blue) ![](https://img.shields.io/badge/AWS-blue) ![](https://img.shields.io/badge/GCP-blue) ![](https://img.shields.io/badge/Python-blue) ![](https://img.shields.io/badge/Django-blue) ![](https://img.shields.io/badge/Flask-blue) ![](https://img.shields.io/badge/FastAPI-blue) ![](https://img.shields.io/badge/Heroku-blue) ![](https://img.shields.io/badge/Netlify-blue) ![](https://img.shields.io/badge/Docker-blue) ![](https://img.shields.io/badge/android-blue) ![](https://img.shields.io/badge/ios-blue) ![](https://img.shields.io/badge/Flutter-blue) ![](https://img.shields.io/badge/CI/CD-blue) ![](https://img.shields.io/badge/JavaScript-blue) ![](https://img.shields.io/badge/TypeScript-blue) ![](https://img.shields.io/badge/MySQL-blue) ![](https://img.shields.io/badge/MongoDB-blue) ![](https://img.shields.io/badge/PostgreSQL-blue)  ![](https://img.shields.io/badge/HTML-blue) ![](https://img.shields.io/badge/CSS-blue) ![](https://img.shields.io/badge/PHP-blue) ![](https://img.shields.io/badge/Laravel-blue) ![](https://img.shields.io/badge/GraphQL-blue) ![](https://img.shields.io/badge/Bootstrap-blue) ![](https://img.shields.io/badge/TailwindCSS-blue) ![](https://img.shields.io/badge/C-blue) ![](https://img.shields.io/badge/Material%20UI-blue) ![](https://img.shields.io/badge/Svelte-blue) ![](https://img.shields.io/badge/Ant%20Design-blue) ![](https://img.shields.io/badge/DWDM-blue) ![](https://img.shields.io/badge/SDH-blue) ![](https://img.shields.io/badge/IPRAN-blue)</div>
+####      <div align="center">![](https://img.shields.io/badge/AI%20Agents-blue) ![](https://img.shields.io/badge/LangChain-blue) ![](https://img.shields.io/badge/AutoGen-blue) ![](https://img.shields.io/badge/CrewAI-blue) ![](https://img.shields.io/badge/Claude-blue) ![](https://img.shields.io/badge/OpenAI-blue) ![](https://img.shields.io/badge/LLM-blue) ![](https://img.shields.io/badge/NLP-blue) ![](https://img.shields.io/badge/ChatGPT-blue) ![](https://img.shields.io/badge/React-blue) ![](https://img.shields.io/badge/Vue-blue) ![](https://img.shields.io/badge/Angular-blue) ![](https://img.shields.io/badge/Next-blue) ![](https://img.shields.io/badge/Electron-blue) ![](https://img.shields.io/badge/Nuxt-blue) ![](https://img.shields.io/badge/BlockChain-blue) ![](https://img.shields.io/badge/RUST-blue) ![](https://img.shields.io/badge/Azure-blue) ![](https://img.shields.io/badge/Retool-blue) ![](https://img.shields.io/badge/Node-blue) ![](https://img.shields.io/badge/AWS-blue) ![](https://img.shields.io/badge/GCP-blue) ![](https://img.shields.io/badge/Python-blue) ![](https://img.shields.io/badge/Django-blue) ![](https://img.shields.io/badge/Flask-blue) ![](https://img.shields.io/badge/FastAPI-blue) ![](https://img.shields.io/badge/Heroku-blue) ![](https://img.shields.io/badge/Netlify-blue) ![](https://img.shields.io/badge/Docker-blue) ![](https://img.shields.io/badge/android-blue) ![](https://img.shields.io/badge/ios-blue) ![](https://img.shields.io/badge/Flutter-blue) ![](https://img.shields.io/badge/CI/CD-blue) ![](https://img.shields.io/badge/JavaScript-blue) ![](https://img.shields.io/badge/TypeScript-blue) ![](https://img.shields.io/badge/MySQL-blue) ![](https://img.shields.io/badge/MongoDB-blue) ![](https://img.shields.io/badge/PostgreSQL-blue)  ![](https://img.shields.io/badge/HTML-blue) ![](https://img.shields.io/badge/CSS-blue) ![](https://img.shields.io/badge/PHP-blue) ![](https://img.shields.io/badge/Laravel-blue) ![](https://img.shields.io/badge/GraphQL-blue) ![](https://img.shields.io/badge/Bootstrap-blue) ![](https://img.shields.io/badge/TailwindCSS-blue) ![](https://img.shields.io/badge/C-blue) ![](https://img.shields.io/badge/Material%20UI-blue) ![](https://img.shields.io/badge/Svelte-blue) ![](https://img.shields.io/badge/Ant%20Design-blue) ![](https://img.shields.io/badge/DWDM-blue) ![](https://img.shields.io/badge/SDH-blue) ![](https://img.shields.io/badge/IPRAN-blue)</div>
 
 <h2 font-weight="bold">Process</h2>
 <p align="center">
@@ -196,6 +196,90 @@
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="55" height="55" />
       <br>C++
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=azure" width="45" height="45" alt="Azure" />
+      <br>Azure
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=gcp" width="45" height="45" alt="GCP" />
+      <br>GCP
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="45" height="45" alt="Kubernetes" />
+      <br>Kubernetes
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=terraform" width="45" height="45" alt="Terraform" />
+      <br>Terraform
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ansible" width="45" height="45" alt="Ansible" />
+      <br>Ansible
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=githubactions" width="45" height="45" alt="GitHub Actions" />
+      <br>Actions
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=grafana" width="45" height="45" alt="Grafana" />
+      <br>Grafana
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=prometheus" width="45" height="45" alt="Prometheus" />
+      <br>Prometheus
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="45" height="45" alt="PyTorch" />
+      <br>PyTorch
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=sklearn" width="45" height="45" alt="Scikit-Learn" />
+      <br>Scikit-Learn
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=opencv" width="45" height="45" alt="OpenCV" />
+      <br>OpenCV
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=anaconda" width="45" height="45" alt="Anaconda" />
+      <br>Anaconda
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=redis" width="45" height="45" alt="Redis" />
+      <br>Redis
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=kafka" width="45" height="45" alt="Kafka" />
+      <br>Kafka
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=elasticsearch" width="45" height="45" alt="Elasticsearch" />
+      <br>Elastic
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=rabbitmq" width="45" height="45" alt="RabbitMQ" />
+      <br>RabbitMQ
     </td>
   </tr>
 </table>
